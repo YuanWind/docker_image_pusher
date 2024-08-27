@@ -5,3 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 nvcr.io/nvidia/pytorch:23.07-py3
+docker.io/wind999/paperspace:v7
+docker.io/wind999/paperspace:v8
